@@ -8,7 +8,7 @@
 
 ## 下载与更新
 
-- [下载砚藏 iOS · 查看发布记录](https://github.com/yanxu-orange/ST-Orange-Yancang-IOS/releases)
+- [下载砚藏 iOS 最新正式版](https://github.com/yanxu-orange/ST-Orange-Yancang-IOS/releases/latest) · [查看发布记录](https://github.com/yanxu-orange/ST-Orange-Yancang-IOS/releases)
 - 其他平台：[砚藏 Android](https://github.com/yanxu-orange/ST-Orange-Yancang) · [砚藏 PC](https://github.com/yanxu-orange/ST-Orange-Yancang-PC)
 
 ## 主要能力
@@ -41,7 +41,7 @@
 
 ## 安装与更新
 
-1. 在 [发布页](https://github.com/yanxu-orange/ST-Orange-Yancang-IOS/releases) 选择版本，从附件下载 IPA。当前为安装测试版，支持 iOS 15.0 及以上。
+1. 在 [发布页](https://github.com/yanxu-orange/ST-Orange-Yancang-IOS/releases) 选择版本，从附件下载 IPA。支持 iOS 15.0 及以上。
 2. 使用适用于你设备的签名和安装方式安装 IPA。
 3. 更新前，可在「设置 → 数据管理 → 备份与恢复」导出完整备份。
 
